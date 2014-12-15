@@ -6,8 +6,8 @@
 meteor-platform
 autopublish
 insecure
-mquandalle:jade
 cryptoquick:stylus-multi
 coffeescript
 iron:router
+mquandalle:jade
 
