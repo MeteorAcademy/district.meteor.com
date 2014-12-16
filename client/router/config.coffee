@@ -1,4 +1,7 @@
 Router.configure
   layoutTemplate: "layout"
-  headerTemplate: "header"
-  footerTemplate: "footer"
+  yieldTemplate:
+    header:
+      to: "header"
+    footer:
+      to: "footer"
