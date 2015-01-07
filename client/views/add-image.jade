@@ -1,6 +1,7 @@
 template(name="addImage")
   form
-    input(type="text", placeholder="Title")
+    input(type="text", placeholder="Title", required)
+    textarea(placeholder="Add image description here...", required)
     input(type="file", placeholder="Browse...")
     input(type="text", placeholder="Or URL")
     input(type="submit", value="Add Image!")
