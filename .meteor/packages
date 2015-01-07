@@ -11,3 +11,6 @@ coffeescript
 iron:router
 mquandalle:jade
 
+digilord:sugarjs
+accounts-base
+accounts-twitter
